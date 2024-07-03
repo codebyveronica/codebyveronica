@@ -1,10 +1,11 @@
 # 👋 Hello! Welcome to my Github profile.
 - My name is Veronica and my nickname is "Veh"!
 
+##
 <div>
 <a href="https://github.com/codebyveronica">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyveronica&layout=compact&langs_count=7&theme=shadow_red"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyveronica&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyveronica&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyveronica&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## I'm learning
